@@ -1,4 +1,4 @@
-# store-routes-composition
+# Aplicacion de ejemplo de consumo de servicios utilizando AXIOS y FIREBASE
 
 ## Project setup
 ```
