@@ -1,4 +1,4 @@
-# Aplicacion de ejemplo de consumo de servicios utilizando AXIOS y FIREBASE
+# Aplicacion de ejemplo  para consumo de servicios utilizando AXIOS y FIREBASE
 
 ## Project setup
 ```
